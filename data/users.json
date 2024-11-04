@@ -1,0 +1,139 @@
+
+[
+    {
+      "name": "Krishna products Pvt Ltd",
+      "email": "krishna123@gmail.in",
+      "role": "Supplier",
+      "isActive": "true"
+    },
+    {
+      "name": "Bharat Agro Products",
+      "email": "bharat@agrosupplier.in",
+      "role": "Supplier",
+      "isActive": "true"
+    },
+    {
+        "name": "Green Leaf Enterprises",
+        "email": "contact@greenleaf.co.in",
+        "role": "Supplier",
+        "isActive": "true"
+    },
+    {
+        "name": "Farm Fresh Products",
+        "email": "sales@farmfresh.in",
+        "role": "Supplier",
+        "isActive": "true"
+    },
+    {
+        "name": "Desi Products Co.",
+        "email": "support@desiproducts.co.in",
+        "role": "Supplier",
+        "isActive": "true"
+    },
+    {
+        "name": "Amit Verma",
+        "email": "amit@company.com",
+        "role": "Employee",
+        "isActive": "true"
+    },
+    {
+        "name": "Ritika Sharma",
+        "email": "ritika@company.com",
+        "role": "Employee",
+        "isActive": "true"
+    },
+    {
+        "name": "Sanjay Patel",
+        "email": "sanjay@company.com",
+        "role": "Employee",
+        "isActive": "true"
+    },
+    {
+        "name": "Preeti Gupta",
+        "email": "preeti@company.com",
+        "role": "Employee",
+        "isActive": "false"
+    },
+    {
+        "name": "Manoj Kumar",
+        "email": "manoj@company.com",
+        "role": "Employee",
+        "isActive": "true"
+    },
+    {
+        "name": "Shalini Mehta",
+        "email": "shalini@company.com",
+        "role": "Employee",
+        "isActive": "true"
+    },
+    {
+        "name": "Nitin Singh",
+        "email": "nitin@company.com",
+        "role": "Employee",
+        "isActive": "true"
+    },
+    {
+        "name": "Vikram Rao",
+        "email": "vikram@company.com",
+        "role": "Employee",
+        "isActive": "false"
+    },
+    {
+        "name": "Anjali Kapoor",
+        "email": "anjali@company.com",
+        "role": "Employee",
+        "isActive": "true"
+    },
+    {
+        "name": "Suresh Nair",
+        "email": "suresh@company.com",
+        "role": "Employee",
+        "isActive": "true"
+    },
+    {
+        "name": "Global Agro Imports Ltd.",
+        "email": "contact@globalagroimports.com",
+        "role": "Customer",
+        "isActive": "true"
+    },
+    {
+        "name": "EcoGreen International Pvt. Ltd.",
+        "email": "info@ecogreeninternational.com",
+        "role": "Customer",
+        "isActive": "true"
+    },
+    {
+        "name": "Nature Harvest Imports",
+        "email": "sales@natureharvestimports.com",
+        "role": "Customer",
+        "isActive": "false"
+    },
+    {
+        "name": "AgriWorld Trade Co.",
+        "email": "support@agriworldtrade.com",
+        "role": "Customer",
+        "isActive": "true"
+    },
+    {
+        "name": "GreenSphere Inc.",
+        "email": "contact@greensphere.com",
+        "role": "Customer",
+        "isActive": "true"
+    },
+    {
+        "name":"Administrator",
+        "email":"admin123@gmail.com",
+        "password":"123",
+        "isActive":"true",
+        "role":"Admin"
+        },
+    {
+        "name":"Admin2",
+        "email":"admin2@gmail.com",
+        "password":"456",
+        "role":"Admin",
+        "isActive":"false"    }
+
+]
+      
+  

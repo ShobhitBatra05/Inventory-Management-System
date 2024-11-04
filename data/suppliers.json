@@ -1,0 +1,137 @@
+[
+    {
+        "name": "Krishna products Pvt Ltd",
+        "contactInfo": "+91 98765 43210",
+        "products": [
+            "66f7579227357112415dc8c3",
+            "66f7579227357112415dc8c4",
+            "66f7579227357112415dc8cb"
+        ]
+    },
+    {
+        "name": "Bharat Agro Products",
+        "contactInfo": "+91 87654 32109",
+        "products": [
+            "66f7579227357112415dc8c7",
+            "66f7579227357112415dc8cd",
+            "66f7579227357112415dc8ce"
+        ]
+    },
+    {
+        "name": "Green Leaf Enterprises",
+        "contactInfo": "+91 76543 21098",
+        "products": [
+            "66f7579227357112415dc8c5",
+            "66f7579227357112415dc8d2",
+            "66f7579227357112415dc8c8"
+        ]
+    },
+    {
+        "name": "Farm Fresh products",
+        "contactInfo": "+91 65432 10987",
+        "products": [
+            "66f7579227357112415dc8c6",
+            "66f7579227357112415dc8e2",
+            "66f7579227357112415dc8d7"
+        ]
+    },
+    {
+        "name": "Desi products Co.",
+        "contactInfo": "+91 54321 09876",
+        "products": [
+            "66f7579227357112415dc8ca",
+            "66f7579227357112415dc8d8",
+            "66f7579227357112415dc8df"
+        ]
+    },
+    {
+        "name": "Sow Good products",
+        "contactInfo": "+91 43210 98765",
+        "products": [
+            "66f7579227357112415dc8cf",
+            "66f7579227357112415dc8d9",
+            "66f7579227357112415dc8e0"
+        ]
+    },
+    {
+        "name": "AgriMax Solutions",
+        "contactInfo": "+91 32109 87654",
+        "products": [
+            "66f7579227357112415dc8c9",
+            "66f7579227357112415dc8d3",
+            "66f7579227357112415dc8d5"
+        ]
+    },
+    {
+        "name": "Kisan Organic products",
+        "contactInfo": "+91 21098 76543",
+        "products": [
+            "66f7579227357112415dc8d6",
+            "66f7579227357112415dc8e3",
+            "66f7579227357112415dc8d0"
+        ]
+    },
+    {
+        "name": "Seedling Suppliers",
+        "contactInfo": "+91 10987 65432",
+        "products": [
+            "66f7579227357112415dc8dd",
+            "66f7579227357112415dc8de",
+            "66f7579227357112415dc8dc"
+        ]
+    },
+    {
+        "name": "Organic Harvest",
+        "contactInfo": "+91 09876 54321",
+        "products": [
+            "66f7579227357112415dc8d4",
+            "66f7579227357112415dc8da",
+            "66f7579227357112415dc8e1"
+        ]
+    },
+    {
+        "name": "Aaditya products & Co.",
+        "contactInfo": "+91 98123 45678",
+        "products": [
+            "66f7579227357112415dc8c8",
+            "66f7579227357112415dc8c5",
+            "66f7579227357112415dc8d9"
+        ]
+    },
+    {
+        "name": "Evergreen products Pvt Ltd",
+        "contactInfo": "+91 91234 56789",
+        "products": [
+            "66f7579227357112415dc8c3",
+            "66f7579227357112415dc8df",
+            "66f7579227357112415dc8d5"
+        ]
+    },
+    {
+        "name": "Prakash Agro Supplies",
+        "contactInfo": "+91 92134 67890",
+        "products": [
+            "66f7579227357112415dc8d8",
+            "66f7579227357112415dc8cd",
+            "66f7579227357112415dc8c6"
+        ]
+    },
+    {
+        "name": "Kisan Kranti products",
+        "contactInfo": "+91 93123 78901",
+        "products": [
+            "66f7579227357112415dc8ca",
+            "66f7579227357112415dc8d2",
+            "66f7579227357112415dc8ce"
+        ]
+    },
+    {
+        "name": "Ravi's Organic products",
+        "contactInfo": "+91 94123 89012",
+        "products": [
+            "66f7579227357112415dc8e2",
+            "66f7579227357112415dc8d6",
+            "66f7579227357112415dc8d3"
+        ]
+    }
+]

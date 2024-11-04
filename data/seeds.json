@@ -1,0 +1,233 @@
+[
+    {
+        "name": "Sunflower Seed",
+        "sku": "SS-001",
+        "price": 40,
+        "quantity": 50,
+        "stock": 120
+    },
+    {
+        "name": "Tomato Seed",
+        "sku": "TS-002",
+        "price": 60,
+        "quantity": 100,
+        "stock": 200
+    },
+    {
+        "name": "Lettuce Seed",
+        "sku": "LS-003",
+        "price": 30,
+        "quantity": 200,
+        "stock": 150
+    },
+    {
+        "name": "Carrot Seed",
+        "sku": "CS-004",
+        "price": 50,
+        "quantity": 100,
+        "stock": 90
+    },
+    {
+        "name": "Cucumber Seed",
+        "sku": "CuS-005",
+        "price": 70,
+        "quantity": 50,
+        "stock": 110
+    },
+    {
+        "name": "Radish Seed",
+        "sku": "RS-006",
+        "price": 20,
+        "quantity": 500,
+        "stock": 140
+    },
+    {
+        "name": "Green Bean Seed",
+        "sku": "GBS-007",
+        "price": 45,
+        "quantity": 100,
+        "stock": 80
+    },
+    {
+        "name": "Pea Seed",
+        "sku": "PS-008",
+        "price": 35,
+        "quantity": 100,
+        "stock": 130
+    },
+    {
+        "name": "Pumpkin Seed",
+        "sku": "PkS-009",
+        "price": 90,
+        "quantity": 20,
+        "stock": 75
+    },
+    {
+        "name": "Squash Seed",
+        "sku": "SqS-010",
+        "price": 65,
+        "quantity": 50,
+        "stock": 95
+    },
+    {
+        "name": "Bell Pepper Seed",
+        "sku": "BPS-011",
+        "price": 80,
+        "quantity": 50,
+        "stock": 100
+    },
+    {
+        "name": "Chili Pepper Seed",
+        "sku": "CPS-012",
+        "price": 100,
+        "quantity": 30,
+        "stock": 60
+    },
+    {
+        "name": "Basil Seed",
+        "sku": "BaS-013",
+        "price": 55,
+        "quantity": 200,
+        "stock": 110
+    },
+    {
+        "name": "Cilantro Seed",
+        "sku": "CS-014",
+        "price": 30,
+        "quantity": 100,
+        "stock": 160
+    },
+    {
+        "name": "Parsley Seed",
+        "sku": "PS-015",
+        "price": 45,
+        "quantity": 100,
+        "stock": 130
+    },
+    {
+        "name": "Spinach Seed",
+        "sku": "SpS-016",
+        "price": 50,
+        "quantity": 200,
+        "stock": 140
+    },
+    {
+        "name": "Broccoli Seed",
+        "sku": "BS-017",
+        "price": 65,
+        "quantity": 50,
+        "stock": 80
+    },
+    {
+        "name": "Cauliflower Seed",
+        "sku": "CaS-018",
+        "price": 70,
+        "quantity": 30,
+        "stock": 50
+    },
+    {
+        "name": "Zucchini Seed",
+        "sku": "ZS-019",
+        "price": 50,
+        "quantity": 50,
+        "stock": 100
+    },
+    {
+        "name": "Eggplant Seed",
+        "sku": "ES-020",
+        "price": 75,
+        "quantity": 25,
+        "stock": 90
+    },
+    {
+        "name": "Onion Seed",
+        "sku": "OS-021",
+        "price": 30,
+        "quantity": 100,
+        "stock": 120
+    },
+    {
+        "name": "Garlic Seed",
+        "sku": "GS-022",
+        "price": 40,
+        "quantity": 50,
+        "stock": 110
+    },
+    {
+        "name": "Fennel Seed",
+        "sku": "FS-023",
+        "price": 80,
+        "quantity": 50,
+        "stock": 70
+    },
+    {
+        "name": "Thyme Seed",
+        "sku": "TS-024",
+        "price": 70,
+        "quantity": 50,
+        "stock": 100
+    },
+    {
+        "name": "Rosemary Seed",
+        "sku": "RS-025",
+        "price": 60,
+        "quantity": 25,
+        "stock": 85
+    },
+    {
+        "name": "Sage Seed",
+        "sku": "SS-026",
+        "price": 30,
+        "quantity": 100,
+        "stock": 95
+    },
+    {
+        "name": "Chive Seed",
+        "sku": "CS-027",
+        "price": 50,
+        "quantity": 100,
+        "stock": 130
+    },
+    {
+        "name": "Oregano Seed",
+        "sku": "OS-028",
+        "price": 45,
+        "quantity": 50,
+        "stock": 120
+    },
+    {
+        "name": "Mint Seed",
+        "sku": "MS-029",
+        "price": 35,
+        "quantity": 200,
+        "stock": 140
+    },
+    {
+        "name": "Dill Seed",
+        "sku": "DS-030",
+        "price": 50,
+        "quantity": 100,
+        "stock": 90
+    },
+    {
+        "name": "Caraway Seed",
+        "sku": "CS-031",
+        "price": 40,
+        "quantity": 50,
+        "stock": 100
+    },
+    {
+        "name": "Cabbage Seed",
+        "sku": "CbS-032",
+        "price": 55,
+        "quantity": 50,
+        "stock": 110
+    },
+    {
+        "name": "Radicchio Seed",
+        "sku": "RS-033",
+        "price": 90,
+        "quantity": 30,
+        "stock": 60
+    }
+]
